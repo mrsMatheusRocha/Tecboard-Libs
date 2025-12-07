@@ -1,5 +1,3 @@
-![Tecboard](.github/thumbnail.png)
-
 # Tecboard - Hub de Eventos de Tecnologia
 
 Aplicação web desenvolvida em React para gerenciar e visualizar eventos de tecnologia. O projeto permite criar, listar e paginar eventos com diferentes temas como Front-end, Design e Marketing.
@@ -99,15 +97,3 @@ O projeto utiliza JSON Server para simular uma API REST. Os dados dos eventos fi
 - `GET /events` - Lista todos os eventos
 - `GET /events?_page=1&_per_page=4` - Lista eventos com paginação
 - `POST /events` - Cria um novo evento
-
-## 📚 Mais informações do curso
-
-Este projeto foi desenvolvido como parte do curso da Alura sobre React com Vite, abordando conceitos modernos de desenvolvimento frontend como:
-
-- Gerenciamento de estado com TanStack Query
-- Validação de formulários
-- Paginação e infinite scroll
-- Design system com Material-UI
-- Performance e otimização
-
-Gostou do projeto e quer conhecer mais? Você pode acessar o curso da Alura que desenvolve este projeto!
