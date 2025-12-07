@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Workshop React",
+      "theme": "Front-end",
+      "date": "20/05/2025",
+      "image": "https://placehold.co/236x282"
+    },
+    {
+      "id": 2,
+      "name": "Conference JS",
+      "theme": "Front-end",
+      "date": "15/06/2025",
+      "image": "https://placehold.co/236x282"
+    },
+    {
+      "id": 3,
+      "name": "Vue.js Masterclass",
+      "theme": "Front-end",
+      "date": "10/07/2025",
+      "image": "https://placehold.co/236x282"
+    },
+    {
+      "id": 4,
+      "name": "Angular Workshop",
+      "theme": "Front-end",
+      "date": "25/07/2025",
+      "image": "https://placehold.co/236x282"
+    },
+    {
+      "id": 5,
+      "name": "UX/UI Design",
+      "theme": "Design",
+      "date": "05/08/2025",
+      "image": "https://placehold.co/236x282"
+    },
+    {
+      "id": 6,
+      "name": "Figma Masterclass",
+      "theme": "Design",
+      "date": "12/08/2025",
+      "image": "https://placehold.co/236x282"
+    },
+    {
+      "id": 7,
+      "name": "Design Thinking",
+      "theme": "Design",
+      "date": "20/08/2025",
+      "image": "https://placehold.co/236x282"
+    },
+    {
+      "id": 8,
+      "name": "Digital Marketing Summit",
+      "theme": "Marketing",
+      "date": "10/09/2025",
+      "image": "https://placehold.co/236x282"
+    },
+    {
+      "id": 9,
+      "name": "SEO Advanced",
+      "theme": "Marketing",
+      "date": "18/09/2025",
+      "image": "https://placehold.co/236x282"
+    },
+    {
+      "id": 10,
+      "name": "Content Marketing",
+      "theme": "Marketing",
+      "date": "25/09/2025",
+      "image": "https://placehold.co/236x282"
+    },
+    {
+      "id": 11,
+      "name": "Social Media Conference",
+      "theme": "Marketing",
+      "date": "05/10/2025",
+      "image": "https://placehold.co/236x282"
+    }
+  ]
+}
